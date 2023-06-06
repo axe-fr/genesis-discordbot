@@ -9,6 +9,14 @@ Genesis est un bot discord Open Source (créé par axe#1111) il est à sa versio
     <p>
       Genesis a été créé par <code>axe#1111</code> et personne d'autre.. 
     </p>
+      <h2>Guide de fonctionnement </h2>
+    <p>
+      npm i // installe tous packages
+      npx tsc // créé le dist/compile
+      npm run start // lance le code
+      (Il faut avoir nodejs d'installé)   
+    </p>
+  
     <p>
       <code>https://discord.gg/genesisbot</code>
     </p>
