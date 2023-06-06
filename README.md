@@ -34,7 +34,6 @@ Genesis est un bot discord Open Source (créé par axe#1111) il est à sa versio
       <code>https://github.com/axe-fr/genesis-discordbot</code>
     </p>
 
-</script>
 </body>
 
   
