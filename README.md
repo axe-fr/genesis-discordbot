@@ -4,7 +4,6 @@ Genesis est un bot discord Open Source (créé par axe#1111) il est à sa versio
 
   <head>
     <title>Genesis Bot</title>
-   
 <style>
   body {
     font-family: Arial;
