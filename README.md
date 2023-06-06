@@ -13,24 +13,14 @@ Guide de fonctionnement
 (Il faut avoir nodejs d'installé)   
 
 
-  <body>
-    <h1>Github officiel de Genesis </h1>
-    <p>
-      Genesis a été créé par <code>axe#1111</code> et personne d'autre.. 
-    </p>
-     
-  
-    <p>
-      <code>https://discord.gg/genesisbot</code>
-    </p>
-    <p>
-      <code>https://discord.com/api/oauth2/authorize?client_id=1111290968843493468&permissions=8&scope=bot</code>
-    </p><p>
-      <code>https://github.com/axe-fr/genesis-discordbot</code>
-    </p>
+Genesis a été créé par <code>axe#1111</code> et personne d'autre.. 
 
+https://discord.gg/genesisbot
 
-</body>
+https://discord.com/api/oauth2/authorize?client_id=1111290968843493468&permissions=8&scope=bot
+
+https://github.com/axe-fr/genesis-discordbot
+
 
 
   
